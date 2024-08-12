@@ -2,12 +2,12 @@
 
 My research focuses on **Large Multi-Modal Models**, especially Large Image/Video + Langauge models, with the hope of pushing these models to be capable of evaluating the quality of actions in video.
 
-Currently, I am a PhD student at [MARVL](https://marvl.stanford.edu/), Stanford, and advised by [Prof. Serena Yeung-Levy](https://ai.stanford.edu/~syyeung/).
-
 Recent Work:
 - 💫 [Video-STAR](https://arxiv.org/abs/2407.06189): Introduced a method that allows the utilization of any labeled video dataset for instruction tuning. 
 - 🤖 [VideoAgent](https://arxiv.org/abs/2403.10517): A novel agent-based system that utilizes a large language model to iteratively identify and compile crucial information from long-form videos
 <!--
+Currently, I am a PhD student at [MARVL](https://marvl.stanford.edu/), Stanford, and advised by [Prof. Serena Yeung-Levy](https://ai.stanford.edu/~syyeung/).
+
 **orrzohar/orrzohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
