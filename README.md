@@ -1,4 +1,4 @@
-## I'm [Orr Zohar](https://orrzohar@github.io) 👋
+## I'm [Orr Zohar](https://orrzohar.github.io) 👋
 
 My research focuses on **Large Multi-Modal Models**, especially Large Image/Video + Langauge models, with the hope of pushing these models to be capable of evaluating the quality of actions in video. Recent relevant work:
 
