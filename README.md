@@ -4,7 +4,8 @@ My research focuses on **Large Multi-Modal Models**, especially Large Image/Vide
 
 
 
-- <img src="https://github.com/user-attachments/assets/d12dcb46-4833-48ba-9c53-ffac0f623e31" alt="Astronaut Helmet" width="25"> [Apollo](https://apollo-lmms.github.io) coming soon..
+- <img src="https://github.com/user-attachments/assets/98612d44-fe26-4119-94e1-0da5739b5e6d" alt="smolvlm2" width="25"> [SmolVLM2](https://huggingface.co/blog/smolvlm2): The tiniest video-LMM ever!
+- <img src="https://github.com/user-attachments/assets/d12dcb46-4833-48ba-9c53-ffac0f623e31" alt="Astronaut Helmet" width="18"> [Apollo](https://apollo-lmms.github.io): Exploring video understanding in LMMs
 - 💫 [Video-STAR](https://arxiv.org/abs/2407.06189): Introduced a method that allows the utilization of any labeled video dataset for instruction tuning. 
 - 🤖 [VideoAgent](https://arxiv.org/abs/2403.10517): A novel agent-based system that utilizes a large language model to iteratively identify and compile crucial information from long-form videos
 <!--
